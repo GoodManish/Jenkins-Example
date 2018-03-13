@@ -64,8 +64,8 @@
 -->
     <distributionManagement>
         <repository>
-            <id>myMavenRepo.write</id>
-            <url>https://mymavenrepo.com/repo/9Q8JoRpymi4UGK8HzbVq/</url>
+             <name>Central Repository</name>
+                  <url>https://repo.maven.apache.org/maven2</url>
         </repository>
     </distributionManagement> 
 
