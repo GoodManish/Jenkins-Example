@@ -61,7 +61,7 @@
             <url>https://mymavenrepo.com/repo/FN8PIshHk5uALNhkXbhs/</url>
         </repository>
     </repositories>
--->
+--> 
     <distributionManagement>
        <repository>
               <id>myrepository</id>
