@@ -12,6 +12,7 @@ public class FizzBuzz {
 		if (number % 5 == 0)
 			return "Buzz";
 
+		System.out.println("Change After 1st commit in master branch");
 		return String.valueOf(number);
 	}
 }
